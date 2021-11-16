@@ -1,0 +1,371 @@
+I-Logix-RPY-Archive version 8.15.0 * 202002261110
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 75;
+	- value = "component_3\\DefaultConfig\\AVSystem.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\AVSystem.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\ActorPkg.cpp" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\ActorPkg.h" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\AirConditioner.cpp" 7.10.2021::16:31:38
+	"component_3\\DefaultConfig\\AirConditioner.h" 7.10.2021::16:31:38
+	"component_3\\DefaultConfig\\CO2Sensor.cpp" 7.10.2021::16:54:27
+	"component_3\\DefaultConfig\\CO2Sensor.h" 7.10.2021::16:54:27
+	"component_3\\DefaultConfig\\DTSR.cpp" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\DTSR.h" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\Default.cpp" 7.10.2021::17:37:43
+	"component_3\\DefaultConfig\\Default.h" 7.10.2021::17:37:43
+	"component_3\\DefaultConfig\\EnvironMent.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\EnvironMent.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\ExternalLighting.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\ExternalLighting.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\FireAlarm.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\FireAlarm.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\FireSensor.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\FireSensor.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\GUI.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\GUI.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\HVAC.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\HVAC.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\IntelligentLamp.cpp" 7.10.2021::17:37:43
+	"component_3\\DefaultConfig\\IntelligentLamp.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\Interaction.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\Interaction.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\Interconnection.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\Interconnection.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\MovementDetectionSensor.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\MovementDetectionSensor.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\OccupancySensor.cpp" 7.10.2021::16:54:27
+	"component_3\\DefaultConfig\\OccupancySensor.h" 7.10.2021::16:54:27
+	"component_3\\DefaultConfig\\ProxyPortInterfaces.cpp" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\ProxyPortInterfaces.h" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\SASystem.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\SASystem.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\SendToUnity.cpp" 7.10.2021::14:11:1
+	"component_3\\DefaultConfig\\SendToUnity.h" 7.10.2021::14:11:1
+	"component_3\\DefaultConfig\\SoftwareController.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\SoftwareController.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\Structure.cpp" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\Structure.h" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\Temperature.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\Temperature.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\TemperatureSensor.cpp" 7.10.2021::16:54:27
+	"component_3\\DefaultConfig\\TemperatureSensor.h" 7.10.2021::16:54:27
+	"component_3\\DefaultConfig\\TouchPanel.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\TouchPanel.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\UCDynamicLightingBlk.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\UCDynamicLightingBlk.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\UCFireBlk.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\UCFireBlk.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\UCHVACBlk.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\UCHVACBlk.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\UcFirePkg.cpp" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\UcFirePkg.h" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\UcHVACPkg.cpp" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\UcHVACPkg.h" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\UcLightingPkg.cpp" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\UcLightingPkg.h" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\User.cpp" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\User.h" 7.10.2021::16:31:40
+	"component_3\\DefaultConfig\\Ventilation.cpp" 7.10.2021::17:56:56
+	"component_3\\DefaultConfig\\Ventilation.h" 7.10.2021::16:31:38
+	"component_3\\DefaultConfig\\VisualEntity.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\VisualEntity.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\Weather.cpp" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\Weather.h" 7.10.2021::16:31:39
+	"component_3\\DefaultConfig\\a.cpp" 7.10.2021::16:31:38
+	"component_3\\DefaultConfig\\a.h" 7.10.2021::16:31:38
+	"component_3\\DefaultConfig\\block_64.cpp" 7.10.2021::16:54:27
+	"component_3\\DefaultConfig\\block_64.h" 7.10.2021::16:54:27
+	"component_3\\DefaultConfig\\bool_modifying_bool_ProxyFlowPropertyInterface.h" 7.10.2021::16:31:38
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 8;
+	- value = "GUID 54918be5-5ca1-4d85-843f-dbeb5e545dbb" "GUID beb06380-4e34-4ac0-b325-863a4cd8b8fb"
+	"GUID 897459dd-6baa-41b1-8f65-d5eeb3c1b413" "GUID dfabeae6-d57f-479b-ad52-0b8bec0a0dd4"
+	"GUID 8c3f1f49-ee0c-4b68-8581-deb32c56c1a2" "GUID dfabeae6-d57f-479b-ad52-0b8bec0a0dd4"
+	"GUID 932ff719-f74c-40b0-9db9-c4a6e11d45b9" "GUID beb06380-4e34-4ac0-b325-863a4cd8b8fb"
+	"GUID 94c7008a-4e8c-46cc-8ece-92d8483ae8bc" "GUID dfabeae6-d57f-479b-ad52-0b8bec0a0dd4"
+	"GUID b32fe4ca-58c6-4603-894d-169cd3abf0ca" "GUID dfabeae6-d57f-479b-ad52-0b8bec0a0dd4"
+	"GUID beb06380-4e34-4ac0-b325-863a4cd8b8fb" "GUID dfabeae6-d57f-479b-ad52-0b8bec0a0dd4"
+	"GUID f1a70e33-54ba-47b3-a395-c4762a936a5d" "GUID beb06380-4e34-4ac0-b325-863a4cd8b8fb"
+	
+}
+- size = 35;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Ventilation";
+	- _id = GUID 63d27d97-fea5-487d-bf36-62181c8a0830;
+}
+- genTime = 7.10.2021::17:56:56;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "DTSR";
+	- _id = GUID b093db98-0627-4232-9347-d219db7ffdf5;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "HVAC";
+	- _id = GUID d7400912-a79a-458e-80b8-2f1524ffe3b9;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "FireAlarm";
+	- _id = GUID 0fce1de6-fcd0-492e-ab48-778658d006e7;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "UCFireBlk";
+	- _id = GUID 31f19e36-2539-41bd-8fe9-7278abc08ec8;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Temperature";
+	- _id = GUID 0a6856b6-e76d-4546-8934-63d552677e29;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\component_3.cmpx";
+	- _name = "component_3\\DefaultConfig";
+	- _id = GUID 20dc5918-a9fc-43a0-8cec-4a26bd40d60e;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "UCDynamicLightingBlk";
+	- _id = GUID a84b7b54-eb89-4822-bfba-7f92deffdd0c;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Interaction";
+	- _id = GUID 9beb9577-f353-4614-8fe1-da5199bb9cb0;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "AirConditioner";
+	- _id = GUID 5d48c33a-30aa-496b-92a1-a30a1bb84502;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "CO2Sensor";
+	- _id = GUID f4db5c3f-26c2-4ef1-8c0c-5ed2afab0230;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\UcFirePkg.sbsx";
+	- _subsystem = "UseCasePkg";
+	- _name = "UcFirePkg";
+	- _id = GUID 932ff719-f74c-40b0-9db9-c4a6e11d45b9;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ExternalLighting";
+	- _id = GUID 1b93a1b8-cde0-40e2-b601-56b4f7cc922b;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "SoftwareController";
+	- _id = GUID 1fae2efd-a4f0-4481-9a9f-75bd7eeb2e33;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID 94c7008a-4e8c-46cc-8ece-92d8483ae8bc;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\ActorPkg.sbsx";
+	- _subsystem = "ActorPkg";
+	- _name = "User";
+	- _id = GUID 6ad1a311-4f30-4296-a2f4-fcd914e97fd4;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "EnvironMent";
+	- _id = GUID d2c81383-e13e-4d3b-be38-289d7d26baf9;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\UcLightingPkg.sbsx";
+	- _subsystem = "UseCasePkg";
+	- _name = "UcLightingPkg";
+	- _id = GUID f1a70e33-54ba-47b3-a395-c4762a936a5d;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "TemperatureSensor";
+	- _id = GUID 72cc5d7b-df9c-47ca-938f-513fceda919a;
+}
+- genTime = 7.10.2021::17:27:15;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "FireSensor";
+	- _id = GUID a77bdb45-1248-4553-a151-2bfadeadfe3b;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "UCHVACBlk";
+	- _id = GUID 0f411054-fa8e-4246-85ed-0cd250ba434d;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Structure.sbsx";
+	- _name = "Structure";
+	- _id = GUID 897459dd-6baa-41b1-8f65-d5eeb3c1b413;
+}
+- genTime = 7.10.2021::16:31:40;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "TouchPanel";
+	- _id = GUID ce66e27b-581a-42e5-aa79-4724a90ebf17;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Weather";
+	- _id = GUID b3398325-f196-43dd-b8ea-8ea31d3d0d3c;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "SASystem";
+	- _id = GUID c30ac162-fbf1-4e6f-9f42-56d310390ffe;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "MovementDetectionSensor";
+	- _id = GUID 591ac464-6c78-490a-919e-c9cbdd0cd6d7;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "a";
+	- _id = GUID 64fdddae-0cd9-4b38-81fb-4e1160b6896f;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "GUI";
+	- _id = GUID b4a7c865-b719-480b-b172-b82fa09af907;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "VisualEntity";
+	- _id = GUID e029681d-1e7d-432a-8d1d-e362464354ec;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\UcHVACPkg.sbsx";
+	- _subsystem = "UseCasePkg";
+	- _name = "UcHVACPkg";
+	- _id = GUID 54918be5-5ca1-4d85-843f-dbeb5e545dbb;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "AVSystem";
+	- _id = GUID 0c07d27c-5864-4c53-9bd1-69042643d62e;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Interconnection";
+	- _id = GUID 906a08cd-2385-45b0-a7b5-dc9576518efb;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "OccupancySensor";
+	- _id = GUID a3d5c1d1-e2e1-4f16-906f-8d4c1191d2af;
+}
+- genTime = 7.10.2021::17:27:15;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\ActorPkg.sbsx";
+	- _name = "ActorPkg";
+	- _id = GUID b32fe4ca-58c6-4603-894d-169cd3abf0ca;
+}
+- genTime = 7.10.2021::20:13:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CommunicateWithUnity_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "IntelligentLamp";
+	- _id = GUID 7ef80df5-26a8-4a27-b922-a02880c6374d;
+}
+- genTime = 7.10.2021::17:37:43;
+

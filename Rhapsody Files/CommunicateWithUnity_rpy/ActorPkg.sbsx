@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID b32fe4ca-58c6-4603-894d-169cd3abf0ca</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ActorPkg</_name>
+			<_modifiedTimeWeak type="a">7.10.2021::14:53:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.10.2021::14:49:6</_modifiedTime>
+			<weakCGTime type="a">7.10.2021::14:53:51</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID 21666ae0-9c54-4b25-8a27-39939722b996</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 21666ae0-9c54-4b25-8a27-39939722b996</value>
+				<value>GUID 6ad1a311-4f30-4296-a2f4-fcd914e97fd4</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 21666ae0-9c54-4b25-8a27-39939722b996</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IActor type="e">
+			<_id type="a">GUID 6ad1a311-4f30-4296-a2f4-fcd914e97fd4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">User</_name>
+			<_modifiedTimeWeak type="a">7.10.2021::14:53:51</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\UcHVACPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">UseCasePkg::UcHVACPkg</_hsubsystem>
+					<_hname type="a">UcHVACDiagram</_hname>
+					<_hid type="a">GUID f1932078-0465-4034-95a5-e418635bca40</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.10.2021::14:53:51</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.10.2021::14:53:51</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 21f13237-6d1e-46ac-bdd7-716523540339</value>
+				<value>GUID e3605333-eb17-4884-8f6d-b878ad41b5da</value>
+				<value>GUID 4c6782b6-102d-432b-a4d6-030141f3eb6b</value>
+				<value>GUID fb879123-6aa7-4d57-a968-4d085e021aa6</value>
+				<value>GUID 79fe5e26-01e4-45ad-83ed-b9e7e3d29328</value>
+			</AggregatesList>
+		</IActor>
+		<IDependency type="e">
+			<_id type="a">GUID 21f13237-6d1e-46ac-bdd7-716523540339</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">UC_AirConditioner</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.9.2021::13:46:27</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UcHVACPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">UseCasePkg::UcHVACPkg</_hsubsystem>
+					<_hname type="a">UC_AirConditioner</_hname>
+					<_hid type="a">GUID 0b24e6cf-e656-424d-8e77-b666251ab90f</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID 6ad1a311-4f30-4296-a2f4-fcd914e97fd4</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID e3605333-eb17-4884-8f6d-b878ad41b5da</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsUC_DynamicLighting</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.9.2021::12:42:35</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UcLightingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">UseCasePkg::UcLightingPkg</_hsubsystem>
+					<_hname type="a">UC_DynamicLighting</_hname>
+					<_hid type="a">GUID c694be93-7afa-4bb9-804b-b98a859321e1</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UcLightingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">UseCasePkg::UcLightingPkg</_hsubsystem>
+					<_hclass type="a">UC_DynamicLighting</_hclass>
+					<_hname type="a">itsUser</_hname>
+					<_hid type="a">GUID ad399ead-a6a4-436a-a3ea-c6e1ba6cab5f</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 4c6782b6-102d-432b-a4d6-030141f3eb6b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsUC_AirConditioner</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.9.2021::13:46:27</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UcHVACPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">UseCasePkg::UcHVACPkg</_hsubsystem>
+					<_hname type="a">UC_AirConditioner</_hname>
+					<_hid type="a">GUID 0b24e6cf-e656-424d-8e77-b666251ab90f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UcHVACPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">UseCasePkg::UcHVACPkg</_hsubsystem>
+					<_hclass type="a">UC_AirConditioner</_hclass>
+					<_hname type="a">itsUser</_hname>
+					<_hid type="a">GUID 283014e3-2b67-4ad8-87d3-960c8bc42d56</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID fb879123-6aa7-4d57-a968-4d085e021aa6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">itsDTSR</_name>
+			<_modifiedTimeWeak type="a">7.10.2021::14:16:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.10.2021::14:16:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Default.sbsx</_hfilename>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">DTSR</_hname>
+					<_hid type="a">GUID b093db98-0627-4232-9347-d219db7ffdf5</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Default.sbsx</_hfilename>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">DTSR</_hclass>
+					<_hname type="a">itsUser</_hname>
+					<_hid type="a">GUID 007460ff-588f-49ce-a76d-944323724065</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 79fe5e26-01e4-45ad-83ed-b9e7e3d29328</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsUC_HVAC</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.10.2021::14:53:51</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UcHVACPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">UseCasePkg::UcHVACPkg</_hsubsystem>
+					<_hname type="a">UC_HVAC</_hname>
+					<_hid type="a">GUID 35368bef-24c9-458f-bc79-cdf15a2fc1ca</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UcHVACPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">UseCasePkg::UcHVACPkg</_hsubsystem>
+					<_hclass type="a">UC_HVAC</_hclass>
+					<_hname type="a">itsUser</_hname>
+					<_hid type="a">GUID 25200e35-6ba5-4bde-bc6a-349c16f203a0</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
